@@ -20,7 +20,7 @@ cd RedditPrivatizer
 ### 2. Create a Reddit App
 
 1. Visit https://www.reddit.com/prefs/apps
-2. Click "create another app"
+2. Click "are you a developer? create an app..."
 3. Choose "script" as the app type
 4. Fill in the required fields (use `http://localhost:8080` as the redirect URI, it's just a placeholder)
 
@@ -76,7 +76,8 @@ python reddit-privatizer.py
 ## Important Notes
 
 - Reddit may rate-limit deletions. If the script stops, simply re-run it to continue.
-- **Warning**: Deletions are permanent! Double-check your cutoff and credentials before running the script.
+- **Warning**: Deletions are permanent! Double-check your cutoff before running the script.
+- **Warning**: Be careful not to share this code with YOUR CREDENTIALS in it, never share those.
 
 ## License
 
