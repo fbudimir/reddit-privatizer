@@ -6,7 +6,10 @@ from datetime import datetime, timedelta
 # Create a Reddit app at https://www.reddit.com/prefs/apps
 # choose "script" as the app type and fill in the required fields
 #
+# NOTES:
 # Rarely the script will stop because of rate limits, just re-run it to continue
+# WARNING: Deletions are permanent! Double-check your cutoff before running the script.
+# WARNING: Be careful not to share this code with YOUR CREDENTIALS in it, never share those.
 
 # Your Reddit API credentials
 CLIENT_ID = 'your client id from reddit'
