@@ -13,7 +13,7 @@ A Python script that deletes all comments and/or posts from your Reddit account 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/franko/RedditPrivatizer.git
+git clone https://github.com/fbudimir/reddit-privatizer.git
 cd RedditPrivatizer
 ```
 
