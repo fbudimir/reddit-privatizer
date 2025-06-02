@@ -1,4 +1,4 @@
-# RedditPrivatizer
+# Reddit Privatizer
 
 A Python script that deletes all comments and/or posts from your Reddit account (older than a specified cutoff, default 3 days) via the Reddit API, for privacy.
 
