@@ -1,4 +1,4 @@
-IMPORTANT NOTE: As of November 2025, this script is deprecated due to Reddit's policy changes.
+IMPORTANT NOTE: As of November 2025, it is much more difficult to create a dev app on Reddit due to their policy changes. However, if you have an existing app you've made for this purpose PRIOR to those policy changes, you can use this script normally as legacy API credentials remain active.
 
 # Reddit Privatizer
 
